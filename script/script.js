@@ -166,4 +166,4 @@ const updateMonthsOnLoad = () => {
   othertech.textContent = `${othertechDifference}+ months`;
   designtool.textContent = `${designDifference}+ months`;
 };
-window.onload(updateMonthsOnLoad());
+//window.onload(updateMonthsOnLoad());
